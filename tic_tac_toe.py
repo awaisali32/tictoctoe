@@ -1,4 +1,4 @@
-# tic tac toe program 
+# tic tac toe program in python
 import tkinter as tk
 from tkinter import messagebox
 
